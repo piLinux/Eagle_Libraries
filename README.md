@@ -1,1 +1,1 @@
-# Eagle_Libraries
+Eagle libraries of chips, ICs, and other components.
